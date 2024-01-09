@@ -1,1 +1,1 @@
-Cotação de Moedas utilizando python e consumo de API com metódo requests
+Cotação de Moedas utilizando python e consumo de API com a biblioteca requests
