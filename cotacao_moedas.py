@@ -1,5 +1,3 @@
-#COTAÇÃO DE MOEDAS
-
 import requests
 import time 
 
